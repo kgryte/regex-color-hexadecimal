@@ -1,6 +1,6 @@
 {
   "name": "regex-color-hexadecimal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to test for a hexadecimal color.",
   "author": {
     "name": "Athan Reines",
@@ -23,15 +23,15 @@
     "url": "git://github.com/kgryte/regex-color-hexadecimal.git"
   },
   "keywords": [
-  	"regex",
-  	"regexp",
-  	"regular",
-  	"expression",
-  	"color",
-  	"colour",
-  	"hex",
-  	"hexadecimal",
-  	"shorthand"
+    "regex",
+    "regexp",
+    "regular",
+    "expression",
+    "color",
+    "colour",
+    "hex",
+    "hexadecimal",
+    "shorthand"
   ],
   "bugs": {
     "url": "https://github.com/kgryte/regex-color-hexadecimal/issues"
