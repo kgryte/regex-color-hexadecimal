@@ -43,7 +43,7 @@ var bool = re.test( '000' );
 
 #### re.either
 
-[Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to test for a either a shorthand or full length hexadecimal color. 
+[Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to test for __either__ a shorthand or full length hexadecimal color. 
 
 ``` javascript
 var bool = re.test( '474747' );
@@ -52,7 +52,6 @@ var bool = re.test( '474747' );
 bool = re.test( '000' );
 // returns true
 ```
-
 
 
 ## Examples
